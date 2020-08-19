@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>P371.ASDML</RootNamespace>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <AssemblyName>ASDML.NET</AssemblyName>
+    <LangVersion>8</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Version>2.0.0-alpha.1</Version>
+    <Authors>P-371</Authors>
+    <Company>P-371</Company>
+    <Description>ASDML parser for .NET</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/P-371/ASDML.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/P-371/ASDML.NET</RepositoryUrl>
+    <RepositoryBranch>main</RepositoryBranch>
+    <Copyright>Copyright © P-371, 2020</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>asdml;markup;parse;parser</PackageTags>
+    <PackageReleaseNotes>This package was built using GitHub Workflows from the main branch of the source repository</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
